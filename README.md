@@ -17,7 +17,7 @@ Advanced table is [here.](./leetcode/README.md)
 | --- | --- |
 | Hard | 1 |
 | Medium | 0 |
-| Easy | 0 |
+| Easy | 1 |
 
 ---
 
